@@ -8,6 +8,7 @@ If something sparks my curiosity, chances are I’ll prototype it, refine it, an
 Tech Stack & Tools
 
 Stack: React · Next.js · TypeScript · TailwindCSS
+
 Fav tools: VS Code · Figma · Notion
 
 Projects
