@@ -16,7 +16,11 @@ Projects
 I don’t have a favorite project right now, but I’m constantly building and experimenting.
 
 Fun Facts
+
   – I love anime (One Piece is my favorite)
+  
   – I go to the gym regularly
+  
   – I enjoy building things and learning new tech
+  
   – I like listening to music while I code
