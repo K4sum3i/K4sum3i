@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**K4sum3i/K4sum3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [k4sum3i](k4sum3i.dev), a full-stack web developer based in Spain.
 
-Here are some ideas to get you started:
+I love building complete apps and putting a lot of care into frontend design.
+If something sparks my curiosity, chances are I’ll prototype it, refine it, and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack & Tools
+
+Stack: React · Next.js · TypeScript · TailwindCSS
+Fav tools: VS Code · Figma · Notion
+
+Projects
+
+I don’t have a favorite project right now, but I’m constantly building and experimenting.
+
+Fun Facts
+  – I love anime (One Piece is my favorite)
+  – I go to the gym regularly
+  – I enjoy building things and learning new tech
+  – I like listening to music while I code
